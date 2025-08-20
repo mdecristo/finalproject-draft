@@ -27,8 +27,8 @@ body {
   margin-bottom: 2em;
 }
 
-h1,
-h2 {
+
+h1, h2, h3{
   display: inline-block;
   text-align: center;
  
@@ -45,6 +45,8 @@ img {
   max-width: 100%;
   justify-content: center;
 }
+
+
 .textalign {
   text-align: center;
 }
@@ -67,9 +69,9 @@ li {
 }
 
 .flex-item {
-  background-color: lightpink;
+ background-color: lightpink;
   padding: 15px;
-  border: solid grey 1px;
+  border: solid grey px;
 }
 
 footer {
