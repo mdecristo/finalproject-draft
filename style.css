@@ -41,15 +41,14 @@ h1, h2, h3{
 
 img {
   border: solid lavender 1em;
-  margin: 1em;
+  margin: 1.5em;
   max-width: 100%;
-  justify-content: center;
 }
-
 
 .textalign {
   text-align: center;
 }
+
 li {
   list-style-type: none;
   padding: 10px;
@@ -58,6 +57,7 @@ li {
 .flex-container {
   display: flex;
   justify-content: center;
+  clear:both;
 }
 .flex-container ul {
   display: flex;
