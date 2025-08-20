@@ -31,9 +31,7 @@ h1,
 h2 {
   display: inline-block;
   text-align: center;
-  border: 2px solid black;
-  padding: 0.1em 1em;
-  background-color: mediumpurple;
+ 
   color: aliceblue;
   font-family: "Libertinus Sans", sans-serif;
   line-height: 1.4em;
@@ -83,6 +81,7 @@ footer {
 .cite {
   text-align: right;
   clear: both;
+  margin-top: .5em;
 }
 
 .libertinus-sans-regular {
